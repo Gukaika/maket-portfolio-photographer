@@ -92,7 +92,7 @@ body {
 
 .hero {
     height: 910px;
-    background: url(../img/bg.png);
+    background: url(../maket-portfolio-photographer/img/bg.png);
     background-repeat: no-repeat, repeat;
     background-position: center;
 }
@@ -279,7 +279,7 @@ body {
 
 .video__player {
     min-height: 705px;
-    background-image: url(../img/video-player.png);
+    background-image: url(../maket-portfolio-photographer/img/video-player.png);
     background-repeat: no-repeat, repeat;
     background-position: center;
     align-items:center;
@@ -349,7 +349,7 @@ body {
 /* section contacts */
 .contacts{
     height: 700px;
-    background: url(../img/contacts.png);
+    background: url(..//maket-portfolio-photographer/img/contacts.png);
     background-repeat: no-repeat, repeat;
     background-position: center;
 }
