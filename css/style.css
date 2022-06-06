@@ -92,7 +92,7 @@ body {
 
 .hero {
     height: 910px;
-    background: url(../maket-portfolio-photographer/img/bg.png);
+    background: url(../img/bg.png);
     background-repeat: no-repeat, repeat;
     background-position: center;
 }
@@ -349,7 +349,7 @@ body {
 /* section contacts */
 .contacts{
     height: 700px;
-    background: url(..//maket-portfolio-photographer/img/contacts.png);
+    background: url(../maket-portfolio-photographer/img/contacts.png);
     background-repeat: no-repeat, repeat;
     background-position: center;
 }
